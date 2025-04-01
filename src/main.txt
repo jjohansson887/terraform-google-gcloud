@@ -1,2 +1,3 @@
 Executes Google Cloud CLI commands within Terraform
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
